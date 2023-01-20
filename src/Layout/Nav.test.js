@@ -3,15 +3,20 @@ import { MemoryRouter } from "react-router-dom";
 import Nav from "./Nav";
 
 describe("Navigation", () => {
-  const setUp = () => render(<Nav />, {wrapper: MemoryRouter});
+  const setUp = () => render(<Nav />, { wrapper: MemoryRouter });
 
   test("should have 3 link", async () => {
     setUp();
     const links = await screen.findAllByRole("link");
 
-    expect(links).toHaveLength(3);  
-  })
-  test("should have title", () => {
-    
-  })
-})
+    expect(links).toHaveLength(3);
+  });
+  test("should have correct title", () => {
+    setUp();
+    const titleText = screen.getByRole("heading", {
+      name: "Westcoast Education",
+    });
+
+    expect(titleText).toBeInTheDocument();
+  });
+});

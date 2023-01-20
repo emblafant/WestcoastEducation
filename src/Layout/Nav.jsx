@@ -2,7 +2,8 @@ import { Link } from "react-router-dom";
 
 const Nav = () => {
   return (
-    <nav id="nav">
+    <nav id="nav" className="navbar">
+      <h1 className="logo">Westcoast Education</h1>
       <ul>
         <li>
           <Link to="/">Public</Link>
@@ -15,7 +16,7 @@ const Nav = () => {
         </li>
       </ul>
     </nav>
-  )
-}
+  );
+};
 
 export default Nav;

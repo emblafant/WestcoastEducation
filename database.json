@@ -1,0 +1,194 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "KursA",
+      "courseNumber": "111",
+      "length": "1 månad",
+      "start": "01/01",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In feugiat lacus et pellentesque accumsan. Maecenas elementum non tortor non imperdiet. In faucibus, sapien mollis vestibulum mattis, sem justo dictum justo, ut congue felis mi sed risus. Ut eu tempor nibh. Pellentesque finibus dui nec ipsum pretium suscipit. Etiam et consequat lectus. Curabitur bibendum mi non magna pulvinar ultricies eget id turpis. Integer tempor, nibh sed elementum ornare, mi lectus interdum lectus, id efficitur nisl enim et nunc. Sed fermentum facilisis est ut finibus."
+    },
+    {
+      "id": 2,
+      "title": "KursB",
+      "courseNumber": "222",
+      "length": "2 månader",
+      "start": "02/02",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In feugiat lacus et pellentesque accumsan. Maecenas elementum non tortor non imperdiet. In faucibus, sapien mollis vestibulum mattis, sem justo dictum justo, ut congue felis mi sed risus. Ut eu tempor nibh. Pellentesque finibus dui nec ipsum pretium suscipit. Etiam et consequat lectus. Curabitur bibendum mi non magna pulvinar ultricies eget id turpis. Integer tempor, nibh sed elementum ornare, mi lectus interdum lectus, id efficitur nisl enim et nunc. Sed fermentum facilisis est ut finibus."
+    },
+    {
+      "id": 3,
+      "title": "KursC",
+      "courseNumber": "333",
+      "length": "3 månader",
+      "start": "03/03",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In feugiat lacus et pellentesque accumsan. Maecenas elementum non tortor non imperdiet. In faucibus, sapien mollis vestibulum mattis, sem justo dictum justo, ut congue felis mi sed risus. Ut eu tempor nibh. Pellentesque finibus dui nec ipsum pretium suscipit. Etiam et consequat lectus. Curabitur bibendum mi non magna pulvinar ultricies eget id turpis. Integer tempor, nibh sed elementum ornare, mi lectus interdum lectus, id efficitur nisl enim et nunc. Sed fermentum facilisis est ut finibus."
+    },
+    {
+      "id": "ld4mh6kvmsuvfekf1ub",
+      "title": "ssss",
+      "courseNumber": "fff",
+      "length": "qqqqqq",
+      "start": "4",
+      "description": "4"
+    },
+    {
+      "id": "ld5222rm69ez7h2jaoo",
+      "title": "fdsafdsafdas",
+      "courseNumber": "fdsafdsa",
+      "length": "fdsafdsa",
+      "start": "fdsafdsa",
+      "description": "fdsafdsa"
+    },
+    {
+      "id": "ld523sst9thy3k7dz4",
+      "title": "dsad",
+      "courseNumber": "DSADas",
+      "length": "DSAD",
+      "start": "dsad",
+      "description": "DSAD"
+    },
+    {
+      "id": "ld52gpf28a9ggu42vzh",
+      "title": "555",
+      "courseNumber": "sssss",
+      "length": "ff",
+      "start": "aaaa",
+      "description": "fff"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "firstName": "anna",
+      "lastName": "andersson",
+      "ssNumber": "19600101-1111",
+      "email": "aaa@gmail.com",
+      "phoneNumber": "072 111 11 11",
+      "qualifications": "avloppsrengöring"
+    },
+    {
+      "id": 2,
+      "firstName": "betty",
+      "lastName": "berglund",
+      "ssNumber": "19700202-2222",
+      "email": "bbb@hotmail.com",
+      "phoneNumber": "072 222 22 22",
+      "qualifications": "bakning"
+    },
+    {
+      "id": 3,
+      "firstName": "cecilia",
+      "lastName": "claesson",
+      "ssNumber": "19800303-3333",
+      "email": "ccc@live.se",
+      "phoneNumber": "073 333 33 33",
+      "qualifications": "cykling"
+    },
+    {
+      "id": "ld4mcrlnxv462yi2yxl",
+      "firstName": "Embla",
+      "lastName": "Wallén",
+      "ssNumber": "y",
+      "email": "embla98wallen@gmail.com",
+      "phoneNumber": "ddd",
+      "qualifications": "y"
+    },
+    {
+      "id": "ld4mdtr7luunezpp3vp",
+      "firstName": "Embla",
+      "lastName": "Wallén",
+      "ssNumber": "fff",
+      "email": "embla98wallen@gmail.com",
+      "phoneNumber": "ddd",
+      "qualifications": "ffff"
+    },
+    {
+      "id": "ld52i1ccuqz4t60mvtd",
+      "firstName": "Embla",
+      "lastName": "Wallén",
+      "ssNumber": "fff",
+      "email": "embla98wallen@gmail.com",
+      "phoneNumber": "y",
+      "qualifications": "ffff"
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "ld4g174b8znc62n0t1w",
+      "email": "uuuuu@hjhj.com"
+    },
+    {
+      "id": "ld4lgfzjwlqzkybdo",
+      "email": "uuuuu@hjhj.com"
+    },
+    {
+      "id": "ld4lk10g6xoljt0y2qt",
+      "email": "uuuuu@hjhj.com"
+    },
+    {
+      "id": "ld4lkiiaz1mfvi0iwf",
+      "email": "uuuuu@hjhj.com"
+    },
+    {
+      "id": "ld4lkxul35wwfpzctdo",
+      "email": "uuuuu@hjhj.com"
+    },
+    {
+      "id": "ld4ln2m6a5r1mlbvqzv",
+      "email": "uuuuu@hjhj.com"
+    },
+    {
+      "id": "ld4ltv2uhlm4e7ipdy",
+      "email": "uuuuu@hjhj.com"
+    },
+    {
+      "id": "ld4lub4znmlwzswbp4",
+      "email": "uuuuu@hjhj.com"
+    },
+    {
+      "id": "ld4lx58hxk3s7s5dufb",
+      "email": "uuuuu@hjhj.com"
+    },
+    {
+      "id": "ld4ly3wm98ftezmlpnw",
+      "email": "uuuuu@hjhj.com"
+    },
+    {
+      "id": "ld4lz4tm20g3hirk2mn",
+      "email": "uuuuu@hjhj.com"
+    },
+    {
+      "id": "ld4m2bnwyg35qr5cosc",
+      "email": "uuuuu@hjhj.com"
+    },
+    {
+      "id": "ld4me5kjggs99g3wd7p",
+      "email": "uuuuu@hjhj.com"
+    },
+    {
+      "id": "ld4mema80swv47efudx",
+      "email": "uuuuu@hjhj.com"
+    },
+    {
+      "id": "ld51yjc05wg300m3ild",
+      "email": "fdsafdsa@fdsafds.se"
+    },
+    {
+      "id": "ld52gfnap4qqbc14b9c",
+      "email": "fdsafdsa@fdsafds.se"
+    },
+    {
+      "id": "ld54h2eor93bqgumtu",
+      "email": "fdsafdsa@fdsafds.se"
+    },
+    {
+      "id": "ld54hkgayfm3vr7uccl",
+      "email": "fdsafdsa@fdsafds.se"
+    },
+    {
+      "id": "ld54i80mzf97d66nqbo",
+      "email": "uuuuu@hjhj.com"
+    }
+  ]
+}
